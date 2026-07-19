@@ -1,0 +1,10 @@
+{
+    "homepage": "https://github.com/bopel-maki-macohi/Minecraft-AdventureArc/releases",
+    "promos": {
+        "26.1.2-latest": "1.0.0",
+        "26.1.2-recommended": "1.0.0"
+    },
+    "26.1.2": {
+        "1.0.0": "Initial Release"
+    }
+}
